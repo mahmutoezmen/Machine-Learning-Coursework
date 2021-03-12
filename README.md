@@ -1,6 +1,6 @@
 # Machine-Learning
 ### Content
-1- Bayesian Decision Theory
+1) Bayesian Decision Theory
 2- Maximum Likelihood and Bayes Parameter Estimation
 3- Principal Component Analysis
 4- Fisher Linear Discriminant
