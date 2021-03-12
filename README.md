@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 ### Content
 1) Bayesian Decision Theory
 2) Maximum Likelihood and Bayes Parameter Estimation
