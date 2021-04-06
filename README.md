@@ -4,7 +4,7 @@
 2) Maximum Likelihood and Bayes Parameter Estimation
 3) Principal Component Analysis
 4) Fisher Linear Discriminant
-5) Model Selectin
+5) Model Selection
 6) Learning Theory and Kernels
 7) Support Vector Machines
 8) Boosting
